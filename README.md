@@ -27,7 +27,7 @@ Requirements:
 How to Use:
   After downloading and extracting folder,
       open windows commandline and enter the extracted folder
-      type into terminal "./a.exe"
+      type into terminal "main.exe"
       input name, current semester, and relevant course information
   
   
